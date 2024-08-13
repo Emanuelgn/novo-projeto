@@ -1,0 +1,17 @@
+div{
+    position:relative;
+    left: calc(50% - 250px);
+    border: solid ;
+    border-radius: 3px;
+    border-color: blue;
+    background-color: rgb(151, 223, 223);
+    max-width: 500px;
+    
+}
+h1{
+    font-size: 40px ;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
