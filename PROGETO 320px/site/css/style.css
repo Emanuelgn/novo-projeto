@@ -5,16 +5,36 @@ div{
     border-radius: 3px;
     border-color: blue;
     background-color: rgb(151, 223, 223);
-    max-width: 500px;
+    max-width: 450px;
     
 }
+
 h1{
     font-size: 40px ;
     text-align: center;
 }
+
 img{
     width: 100%;
 }
+
 body{
     background-color: antiquewhite;
 }
+
+td,tr{
+    border: solid;
+    border-color: black;
+    width: 6px;
+}
+
+td{
+    width: 150px;
+}
+
+table{
+    text-align: center;
+    margin: 0 auto;
+    margin: top 5px;
+}
+
